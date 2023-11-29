@@ -1,5 +1,4 @@
 import {createStore} from './createStore'
-import {store} from 'core-js/internals/reflect-metadata'
 
 const initialState = {
   count: 0
